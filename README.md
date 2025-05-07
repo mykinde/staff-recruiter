@@ -4,11 +4,11 @@
 
 ### Laravel
 
-# LMS Express
-1. Students registration
-2. Course listing and registration
-3. Course lecture allocation
-4. Timetable
-5. Assignment
+# LMS Staff/Employee Apllication App
+1. Employeee Application
+2. Department Listing
+3. Job recruitment creteria
+4. Download Applications by Excel
+5. Shortlisting Based on creteria
 
 <p <i for full package and demo contact g3send@gmail.com
