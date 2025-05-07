@@ -11,4 +11,5 @@
 4. Download Applications by Excel
 5. Shortlisting Based on creteria
 
-<p <i for full package and demo contact g3send@gmail.com
+ 
+ for full package and demo contact g3send@gmail.com
